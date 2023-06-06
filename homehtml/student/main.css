@@ -1,0 +1,13 @@
+body{color:blue;word-break:break-all;}
+
+h1{color:blue;font-size:xxx-large;}
+
+li{color:Green;font-size:xx-large;}
+
+td{color:Green;font-size:xx-large;}
+
+a:link {text-decoration: none; color: darkgreen;font-size:xx-large;}
+a:visited {text-decoration: none; color: darkgreen;font-size:xx-large;}
+a:active {text-decoration: none; color: darkgreen;font-size:xx-large;}
+a:hover {text-decoration: underline; color: darkgreen;font-size:xx-large;}
+
